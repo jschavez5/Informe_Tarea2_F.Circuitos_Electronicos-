@@ -44,9 +44,9 @@ https://youtu.be/4r4aA8z_p34
 
 ## Conclusiones 
 
-- La notación científica y de ingeniería nos brindan un recurso para expresar cantidad, sean muy grandes o muy pequeñas, de forma compacta para la resolución de cálculo, y esto se lo hace expresando con potencias en base diez. 
-- El voltaje, intesidad y resistencia son compactados en una sola expresión, conocidad como ley de ohm, la cual, se aplica con constancia en este tipo análisis y es la raíz inicial para las aplicaciones de distintas leyes y fórmulas con respecto a circuitos eléctricos. 
-- Además, el voltaje se lo mide de forma paralela y la intensidad de corriente en serie, mientras que, las resistencias se miden en paralelo pero sin ninguna conexión a fuente. 
+- La Ley de Ohm nos proporciona la capacidad de encontrar magnitudes como la instesidad, voltaje y resistencia de un circuito. 
+- El voltaje se mide en paralelo, la intesidad en serie y la resistencia desconectada a la fuente. 
+- La Ley de Watt nos habla acerca de la potencia eléctrica, con la cual la energía eléctrica es transferida por un circuito eléctrico, es decir, la cantidad de energía eléctrica entregada o absorbida por un elemento en un determinado tiempo.
 
 ## Bibliografía 
 
