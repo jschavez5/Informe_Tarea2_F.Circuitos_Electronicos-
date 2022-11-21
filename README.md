@@ -40,7 +40,7 @@ Resumen y realización de ejercicios de los capítulos 3-4 de Principios de Circ
 ![image](https://user-images.githubusercontent.com/116780907/202934803-52e82a53-774c-4b03-86d8-0ff41ccaaebc.png)
 
 ## Video 
-https://youtu.be/A7CgOQoDfEU
+https://youtu.be/4r4aA8z_p34
 
 ## Conclusiones 
 
