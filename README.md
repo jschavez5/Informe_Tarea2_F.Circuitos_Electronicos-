@@ -18,7 +18,8 @@ Resumen y realización de ejercicios de los capítulos 3-4 de Principios de Circ
 
 ## Explicación y Resolución de Ejercicios o Problemas 
 ## Capítulo 1
-![image](https://user-images.githubusercontent.com/116780907/202933721-f50f43c6-fd49-4900-b1cf-6c339292c1ef.png)
+![image](https://user-images.githubusercontent.com/116780907/202944052-ae542510-8d13-431f-9e03-0f963bf11997.png)
+
 ![image](https://user-images.githubusercontent.com/116780907/202933934-8656569e-3ffd-4202-ba32-993d38761f88.png)
 ![image](https://user-images.githubusercontent.com/116780907/202933970-aa51f4f5-2a59-4f09-8e8f-cd200176d843.png)
 ![image](https://user-images.githubusercontent.com/116780907/202934034-830c3ed4-fa24-4169-8d9d-e9b5852c2973.png)
